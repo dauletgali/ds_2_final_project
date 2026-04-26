@@ -1,0 +1,19 @@
+# Core
+numpy>=1.23
+opencv-python>=4.7
+Pillow>=9.0
+scikit-learn>=1.2
+matplotlib>=3.6
+tqdm>=4.64
+
+# Deep learning
+torch>=2.0
+torchvision>=0.15
+
+# Re-ID backbone (choose one install command):
+# pip install torchreid
+# OR: pip install git+https://github.com/KaiyangZhou/deep-person-reid.git
+
+# Notebook
+jupyter>=1.0
+ipywidgets>=8.0
